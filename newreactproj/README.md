@@ -1,4 +1,4 @@
-This is a calculator app
+This is a calculator app.
 Instructions for installation:
 1. Clone the Repository
 2. Run npm i
