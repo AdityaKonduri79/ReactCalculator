@@ -111,7 +111,7 @@ return(
     <Card.Text>
       Designed by Aditya Konduri and Himamsu Marellapudi
     </Card.Text>
-    <a href="https://github.com/AdityaKonduri79/ReactCalculator" target="_blank">Github Link</a>
+    <a href="https://github.com/AdityaKonduri79/ReactCalculator" target="_blank">  <Button> Github Link</Button> </a>
   </Card.Body>
 </Card>
 </div>
